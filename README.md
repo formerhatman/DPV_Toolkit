@@ -27,6 +27,8 @@ A complete description of this algorithm can be found at https://hdbscan.readthe
 
 As you can guess, these parameters often go against each other, but with practice you'll have an intuitive understanding of what they do.
 
+> Note that (as of version 0.6.9), we only calculate the distance on Temperature and Speed - further investigation is need to optimize the distance function.
+
 ## Data Compiler
 
 ### Combines many data files into one, including important information given by filename (*creds to Eugenio Garcia-Granados for the gorgeous filenames*).
