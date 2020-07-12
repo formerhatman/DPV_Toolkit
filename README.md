@@ -37,7 +37,7 @@ For instance, if you used 40 lpm Argon, 4 lpm Hydrogen, 500A current, on the Sin
 
 *Ar40_H4_500A_Sinplex_071220.prt*. 
 
-In fact, you're so beautifully organized that you use that same format for all your data points: 
+In fact, you're so beautifully organized that you use that same format for all your data files, even across projects: 
 
 *Argon_Hydrogen_Current_Sinplex_Date*.
 
