@@ -1,5 +1,5 @@
 # DPV_Toolkit
-This contains tools for analysis of thermal spray data. Namely, data from the DPV 2000 and ReliaCoat ICP/ECP. Can be used by anyone, but I made it for that *special someone...*
+This contains tools for analysis of thermal spray data. Namely, data from the DPV 2000 and ReliaCoat ICP/ECP. Can be used by anyone, but I made it for those *extra special people* in the Center for Thermal Spray Research at Stony Brook University.
 
 The Toolkit has several tabs:
 1. Distributions
