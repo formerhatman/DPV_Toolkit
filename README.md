@@ -11,11 +11,16 @@ These are ordered to accomodate the existing process map workflow for thermal sp
 ## Distributions
 
 ### This shows the distributions of Temperature, Speed, and Diameter for a given file. 
+
+![Distributions screenshot](https://github.com/formerhatman/DPV_Toolkit/blob/master/Readme_screenshots/Distributions_Tab.png)
+
 Simply choose a file, and take a peek.
 
 ## Noise Removal
 
 ### Implements the HDBscan algorithm to recognize and remove noise. 
+
+![Noise removal screenshot](https://github.com/formerhatman/DPV_Toolkit/blob/master/Readme_screenshots/NoiseRemoval_Tab.png)
 
 After you pick your file, use the sliders to fine-tune the algorithm. 
 
@@ -32,6 +37,8 @@ As you can guess, these parameters often go against each other, but with practic
 ## Data Compiler
 
 ### Combines many data files into one, including important information given by filename (*creds to Eugenio Garcia-Granados for the gorgeous filenames*).
+
+![Data compiler screenshot](https://github.com/formerhatman/DPV_Toolkit/blob/master/Readme_screenshots/DataCompiler_tab.png)
 
 In the filenames of your DPV files, **you should have consistent filenames that give information about the corresponding condition.** 
 
@@ -58,6 +65,8 @@ Multiple matches for the same column can produce errors - the Toolkit reads the 
 ## Modeling
 
 ### Displays means/stds of Temperature and Speed, categorized by chosen columns.
+
+![Modeling tab screenshot](https://github.com/formerhatman/DPV_Toolkit/blob/master/Readme_screenshots/Modeling_Tab.png)
 
 This is the last stage of the process map process - looking at your chosen variables' effects on temperature and speed.
 
